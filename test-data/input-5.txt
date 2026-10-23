@@ -1,0 +1,3 @@
+# ALL mode tries both stores; the secondary store succeeds even when the primary fails.
+GT4500,1,1,1,0
+TORPEDO,ALL
