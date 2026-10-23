@@ -1,0 +1,5 @@
+# In SINGLE mode firing alternates between the stores.
+# The secondary store always fails, so the second shot must fail.
+GT4500,1,0,1,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
